@@ -1,0 +1,9 @@
+
+Pizza: Margherita
+Ingredienser: [Tomatsauce, ost] Pris: 49,-Afhentningstidspunkt: 2020-11-11 13:44:28.032
+Pizza: Vesuvio
+Ingredienser: [Tomatsauce, ost, skinke] Pris: 59,-Afhentningstidspunkt: 2020-11-11 13:44:28.032
+Pizza: Hawaii
+Ingredienser: [Tomatsauce, ost, skinke, ananas] Pris: 69,-Afhentningstidspunkt: 2020-11-11 13:44:28.032
+Pizza: Pepperoni
+Ingredienser: [Tomatsauce, ost, Pepperoni] Pris: 69,-Afhentningstidspunkt: 2020-11-11 13:44:28.032
